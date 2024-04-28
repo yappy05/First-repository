@@ -1,1 +1,1 @@
-git is awesome
+I created a new row and replaced
